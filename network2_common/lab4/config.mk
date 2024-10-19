@@ -1,0 +1,1 @@
+ARGUMENTS := --type=d

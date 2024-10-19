@@ -1,0 +1,8 @@
+app:
+  title: The Snake Game 🐍
+  width: 1200
+  height: 600
+  server-port: 8081
+  server-host: localhost
+  client-port: 8080
+  client-host: localhost

@@ -1,0 +1,14 @@
+.idea
+
+network2_go/.idea
+network2_go/bin
+network2_go/lab2/*/assets
+*.sum
+
+network2_common/.idea
+
+network2_java/.idea
+network2_java/.gradle
+network2_java/*/build
+
+*.env
